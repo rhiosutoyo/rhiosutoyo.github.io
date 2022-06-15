@@ -3,7 +3,7 @@
 <html>
   
 <body>
-    <h2>Welcome To GFG</h2>
+    <h2>Welcome</h2>
     <marquee> Hello </marquee>
     <marquee direction="right" 
         behavior="alternate" 
